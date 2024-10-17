@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Japanese, C**
 
-- 📫 How to reach me **nguyenvietlan2006@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:nguyenvietlan2006@outlook.com</h3>
 <p align="left">
 </p>
 
